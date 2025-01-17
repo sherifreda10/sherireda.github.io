@@ -11,7 +11,7 @@
   />
 </a>
 
-# 🎓 - Jekyll Professional Resume
+# 🎓 - Sherif reda Professional Resume
 
 A simple and modern resume template, best fit for either **Academic CV (Curriculum Vitae)** or **Engineer Portfolio**.
 
@@ -44,9 +44,9 @@ icon_img: assets/img/icon.webp
 name: "Your Name Here"
 job: "〈Your Job Here〉"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
+phone_number: +201008079133
+address: giza, Egypt
+email: sherif.reda1089@gmail.com
 linkedin_username: linkedin
 github_username: github
 ...
