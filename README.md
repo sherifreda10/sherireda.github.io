@@ -19,10 +19,10 @@ email: sherif.reda1089@gmail.com.com
 linkedin_username: sherif reda 
 
 subject: Education
-listing-order: 1
+
 icon: "/assets/img/graduation-cap.svg"
-contents:
-  - title: Cairo University, Bachelor’s Degree , Accounting Division
+
+Cairo University, Bachelor’s Degree , Accounting Division
     
     date: 2006 - 2010
   ...
